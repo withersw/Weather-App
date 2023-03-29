@@ -6,7 +6,6 @@ A simple weather app that displays with information, such as temperature and win
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
 This webapp consists of one webpage. In this wepage, all the information that diplays the weather information is dynamically created. It is unique and will change based off where the location is and what is happening with the weather at that given time. 
 
 # Development Environment
