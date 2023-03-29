@@ -1,0 +1,20 @@
+.weather {
+    margin-top: 50;
+    border: solid rgb(52, 89, 170);
+    /* border-radius: 10em; */
+    border-radius: 1em;
+    width: max-content;
+    padding: 2em 5em 2em 5em;
+    margin-left: 35%;
+    margin-top: 10em;
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: rgb(192, 208, 223);
+}
+
+.weather .title {
+    font-size: 3em;
+    text-shadow: 1em;
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,20 @@
+.displayweather {
+    margin-top: 20px;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.displayweather .maincard {
+    width: 20em;
+    margin-top: 10px;
+    align-self: center;
+    padding: 1em;
+    border-radius: 20px;
+    position: relative;
+    background: rgb(205, 214, 223);
+    border: 1px solid black;
+}
+
+.displayweather .maincard .cardtitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
