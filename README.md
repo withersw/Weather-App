@@ -19,7 +19,6 @@ This webapp consists of one webpage. In this wepage, all the information that d
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [React.dev](https://react.dev/learn)
 * [w3schools](https://www.w3schools.com/react/default.asp)
 
