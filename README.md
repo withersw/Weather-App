@@ -2,7 +2,7 @@
 
 A simple weather app that displays with information, such as temperature and wind to a user. The weather data is retrieved through API calls that stores weather data for a location given by the user. I created this app to further my knowledge and skills in React, JavaScript, using API's, and web programming. To start run "npm start" in the command line. When ran the user will see two boxes where they can enter a city and a country. When the submit button is clicked information about the weather, including temperature, humidity, and wind speed will be displayed. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=oWnwe1KK6Ss)
 
 # Web Pages
 
